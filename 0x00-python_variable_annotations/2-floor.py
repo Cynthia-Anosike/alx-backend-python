@@ -3,10 +3,7 @@
 '''
 
 
-def floor(n: float) -> int:
+def floor(a: float) -> int:
     ''' This function takes a float and returns its floor
     '''
-    return int(n)
-
-
-print(floor(4.5))
+    return int(a)
